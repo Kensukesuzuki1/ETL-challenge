@@ -13,3 +13,12 @@ Perform joins for the two datasets and drop irrelevant columns. Clean column nam
 Load:
 
 Store in SQL database (PostgreSQL)
+
+Team Project Members
+Loretta Cortez
+Prerak Patel
+Kensuke Suzuki
+Mohammad Usman
+
+
+
