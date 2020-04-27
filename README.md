@@ -4,6 +4,7 @@ The purpose was to extract data from multiple source systems, transforming it to
 
 # Extraction
 Data source 1 - https://catalog.data.gov/dataset/2016-apd-traffic-fatalities 
+
 Data source 2 - https://catalog.data.gov/dataset/2017-apd-traffic-fatalities
 
 # Transform:
@@ -19,8 +20,11 @@ To analyze the cleaned data, clone the repository and run "Extract and Transform
 
 # Team Project Members
 Loretta Cortez - https://github.com/lorettac953
+
 Prerak Patel - https://github.com/prerak-patel
+
 Kensuke Suzuki - Owner
+
 Mohammad Usman - https://github.com/musman78664
 
 
