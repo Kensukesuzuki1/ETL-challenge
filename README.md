@@ -11,7 +11,7 @@ Data source 2 - https://catalog.data.gov/dataset/2017-apd-traffic-fatalities
 Perform joins for the two datasets and drop irrelevant columns. Clean column names. Get rid of field with missing data.
 
 # Load:
-Store in SQL database (PostgreSQL)
+We used sqalchemy to store the data into the PostgresSQL database. We chose PostGresSQL because it saves us time to upload tables.
 
 # How to use 
 The "Data" Folder contains the data from mentioned in Extraction
